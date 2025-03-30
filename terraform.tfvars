@@ -1,2 +1,3 @@
-resource_group_name = "my-tfstate-rg"
+resource_group_name = "my-resource-group"
 location           = "East US"
+environment        = "dev"
